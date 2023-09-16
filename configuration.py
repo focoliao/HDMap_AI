@@ -191,6 +191,8 @@ src_unmatch_shapes = [
               {'shape_id': 20051, 'points_num': 4,'shape_style': 'polygon','points_coord':[(696,627),(883,611),(914,651),(705,645)]}
               ]
 '''
+
+#由于不再继续采用坐标点匹配的方式，下面的src_unmatch_shapes不再使用
 src_unmatch_shapes = [     
               #人行横道    
               {'shape_id': 20000, 'points_num': 4,'shape_style': 'polygon','points_coord':[(473,677),(486,677),(387,765),(374,765)]},
