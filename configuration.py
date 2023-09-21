@@ -60,6 +60,7 @@ video_rescale_y = 1080/2234
 
 
 #后续采用工具选点方式，不再使用配置点的方式
+#主开发机的代码
 src_match_shapes = [
               #人行横道
               #{'shape_id': 1,  'points_num': 4,'shape_style': 'polygon','points_coord':[(353,674),(385,675),(271,761),(234,760)]},
